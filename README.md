@@ -1,4 +1,4 @@
-# SMPTE _ST 2136-10_ - _Common LUT Format_
+# SMPTE _ST 2136-10_ - _Common LUT Format - Broadcast Profiles - Real-time 10-bit Video_
 
 _This repository is public._ 
 
