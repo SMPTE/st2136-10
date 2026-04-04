@@ -17,7 +17,7 @@ The first Public Committee Draft (PCD1) of ST 2136-10 is made available in
 2026-05-05.
 
 To view the document, please download the
-[ZIP file](./10e-st-2136-10-cd-2026-04-02-draft.zip), extract the files, and
+[ZIP file](./10e-st-2136-10-cd-2026-03-31-pub.zip), extract the files, and
 open the HTML file in your browser.
 
 ## General
