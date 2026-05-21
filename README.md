@@ -10,6 +10,7 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 Your feedback is welcome at <https://github.com/SMPTE/st2136-10/issues>.
 
+<!-- PCD-INFO:START -->
 ## First Public Committee Draft (PCD1) Notice
 
 The first Public Committee Draft (PCD1) of ST 2136-10 is made available in
@@ -55,6 +56,8 @@ SMPTE ST 2136-10 aims to make the process much easier:
 **Implementers are encouraged to review the system and provide feedback as soon
 as possible but no later than May 05, 2026, via GitHub, to help improve the
 document and enhance interoperability across implementations.**
+
+<!-- PCD-INFO:END -->
 
 ## Reporting issues
 
